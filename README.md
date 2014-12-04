@@ -1,4 +1,5 @@
-web_prototypes
+Prototypes et développement web
 ==============
 
-divers projets web /various web projects
+Divers projets web / applications / gaming
+various web projects
